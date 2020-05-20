@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="printing-OverloadingLeftBitShift.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Two-Demensional Vector.cpp" />
   </ItemGroup>
