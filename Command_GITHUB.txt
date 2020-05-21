@@ -1,0 +1,16 @@
+1/ Login in GITHUB
+- git config --global user.name sonvudinh96@gmail.com
+2/ Create branch 
+- git checkout -b branchName
+3/ convert branch
+- git checkout branchName
+4/ clone or pull git on server
+- git clone 'link SSH'  OR  git pull origin master.
+5/ check status change file in local
+- git status
+6/ add file changed to git
+- git add -A  // add all file changed
+7/ commit git to git
+- git commit -m "status_commit"
+8/ push git
+- git push
