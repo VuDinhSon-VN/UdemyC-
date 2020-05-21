@@ -21,12 +21,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="STLComplex.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Overloading_the_Assignment_Operator.cpp">
       <Filter>Source Files\Operator Overloading</Filter>
     </ClCompile>
@@ -34,7 +28,36 @@
       <Filter>Source Files\The Standard Template Library</Filter>
     </ClCompile>
     <ClCompile Include="Two-Demensional Vector.cpp">
+      <Filter>Source Files\The Standard Template Library</Filter>
+    </ClCompile>
+    <ClCompile Include="Printing-OverloadingLeftBitShift.cpp">
       <Filter>Source Files\Operator Overloading</Filter>
     </ClCompile>
+    <ClCompile Include="Complex.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="OverloadingPlus.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="AComplexNumberClass.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="Overloading_Equalit_Test.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_and_Memory.cpp">
+      <Filter>Source Files\The Standard Template Library</Filter>
+    </ClCompile>
+    <ClCompile Include="STLComplex.cpp">
+      <Filter>Source Files\The Standard Template Library</Filter>
+    </ClCompile>
+    <ClCompile Include="OverloadingTheDereferenceOperator.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Complex.h">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

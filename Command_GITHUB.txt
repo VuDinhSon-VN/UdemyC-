@@ -14,3 +14,9 @@
 - git commit -m "status_commit"
 8/ push git
 - git push
+
+9/ Generating a new SSH key
+- ssh-keygen -t rsa -b 4096 -C sonvudinh96@gmail.com
+- eval $(ssh-agent -s)
+- ssh-add ~/.ssh/id_rsa
+- clip < ~/.ssh/id_rsa.pub

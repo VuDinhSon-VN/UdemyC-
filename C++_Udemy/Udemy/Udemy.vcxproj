@@ -138,11 +138,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AComplexNumberClass.cpp" />
+    <ClCompile Include="Complex.cpp" />
+    <ClCompile Include="OverloadingPlus.cpp" />
+    <ClCompile Include="OverloadingTheDereferenceOperator.cpp" />
+    <ClCompile Include="Overloading_Equalit_Test.cpp" />
     <ClCompile Include="Overloading_the_Assignment_Operator.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Printing-OverloadingLeftBitShift.cpp" />
+    <ClCompile Include="vector_and_Memory.cpp" />
     <ClCompile Include="STLComplex.cpp" />
     <ClCompile Include="Two-Demensional Vector.cpp" />
     <ClCompile Include="vector.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Complex.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
