@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\The Standard Template Library">
+      <UniqueIdentifier>{b9fbe4d3-57a3-41ee-9de0-5d447374ed16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Operator Overloading">
+      <UniqueIdentifier>{f63580be-06d3-4ff5-9b8f-f24cb59c2f37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\c+11 Amazing new features">
+      <UniqueIdentifier>{8177e0e8-4c1a-4623-9a8e-563d308c713e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\vector_and_Memory.cpp">
+      <Filter>Source Files\The Standard Template Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\vector.cpp">
+      <Filter>Source Files\The Standard Template Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\STLComplex.cpp">
+      <Filter>Source Files\The Standard Template Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\Two-Demensional Vector.cpp">
+      <Filter>Source Files\The Standard Template Library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\AComplexNumberClass.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\Complex.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\Overloading_Equalit_Test.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\Overloading_the_Assignment_Operator.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\OverloadingPlus.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\OverloadingTheDereferenceOperator.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\Printing-OverloadingLeftBitShift.cpp">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="Decltype,TypeidAndNameMangling.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="Auto_Keyword.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="Enhanced For Loop.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="Nested Template Classes.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="ARingbufferClass.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="InitializerLists.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="Object Initialization, Default and Delete.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="MutableLambdas.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="Delegarting Constractors.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="Elision and  Optimization.avi.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+    <ClCompile Include="Constructor and memory.cpp">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\GitHub\UdemyC-\C++_Udemy\Complex.h">
+      <Filter>Source Files\Operator Overloading</Filter>
+    </ClInclude>
+    <ClInclude Include="ring.h">
+      <Filter>Source Files\c+11 Amazing new features</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
